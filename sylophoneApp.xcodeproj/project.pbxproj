@@ -38,6 +38,7 @@
 		D7679C0128780EF300821CC7 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
 		D7679C0228780EF300821CC7 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
 		D7679C0328780EF300821CC7 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		D7679C0B2878190000821CC7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		D732279428770E5700049324 = {
 			isa = PBXGroup;
 			children = (
+				D7679C0B2878190000821CC7 /* README.md */,
 				D732279F28770E5700049324 /* sylophoneApp */,
 				D732279E28770E5700049324 /* Products */,
 			);
